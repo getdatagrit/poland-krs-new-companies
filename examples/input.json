@@ -1,0 +1,6 @@
+{
+  "mode": "newRegistrations",
+  "daysBack": 2,
+  "scanDepth": "recent",
+  "maxItems": 30
+}
